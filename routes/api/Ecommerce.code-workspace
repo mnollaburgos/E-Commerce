@@ -1,0 +1,29 @@
+{
+	"folders": [
+		{
+			"name": "config",
+			"path": "..\\..\\config"
+		},
+		{
+			"name": "db",
+			"path": "..\\..\\db"
+		},
+		{
+			"name": "models",
+			"path": "..\\..\\models"
+		},
+		{
+			"name": "routes",
+			"path": ".."
+		},
+		{
+			"name": "seeds",
+			"path": "..\\..\\seeds"
+		},
+		{
+			"name": "api",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
