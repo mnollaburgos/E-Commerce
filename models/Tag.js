@@ -6,7 +6,7 @@ class Tag extends Model {}
 
 Tag.init(
   {
-    tag_id:{
+    id:{
       type: DataTypes.INTEGER,
       allowNull: false,
       primaryKey: true,
@@ -27,9 +27,3 @@ Tag.init(
 );
 
 module.exports = Tag;
-//“dependencies”: {
-  //“dotenv”: “^8.2.0”,
-  //“express”: “^4.17.1”,
-  //“mysql2": “^2.1.0”,
-  //“sequelize”: “^5.21.7”
-//},
